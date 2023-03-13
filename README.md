@@ -1,6 +1,6 @@
 ## Urinary biomarker for earlier detection of pancreatic cancer
 
-![KernelPCA Plot](03_images/Kernel_PCA.PNG)
+![KernelPCA Plot](03_images/Kernel_PCA.png)
 
 ### Used tools
 Data Cleaning, PCA, KernelPCA, Data Modelling, 
